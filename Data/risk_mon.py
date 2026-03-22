@@ -2,7 +2,7 @@
 PROJECT: TSLA Market Risk & Volatility Monitor
 PURPOSE: Automates the collection of stock data to identify 'Safety Cushion' 
          thresholds and categorize market movement into risk clusters.
-AUTHOR: [Your Name]
+AUTHOR: Oceana O'Dean
 DATE: March 2026
 """
 
